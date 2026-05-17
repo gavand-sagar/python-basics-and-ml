@@ -1,0 +1,10 @@
+{
+  "_INSTRUCTIONS": "Open Claude Desktop setting, Go to edit config, find and edit config file. add following values in config.",
+
+  "mcpServers": {
+    "notes-manager": {
+      "command": "python",
+      "args": ["C:\\Users\\Sagar\\Desktop\\ml-quest\\python-basics-and-ml\\Session11\\server.py"]
+    }
+  }
+}
