@@ -157,6 +157,6 @@ def delete_note(note_id: int) -> str:
 # =============================================================
 if __name__ == "__main__":
     print("Notes MCP Server starting...")
-    mcp.run()
+    mcp.run(transport="streamable-http")
     print("server started ...")
     
